@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:wght@200;400&display=swap);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #FFE4C4;
+    overflow: hidden;
+}
+
+main{
+    height:100vh;
+    width:100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#sinav {
+    width: 60rem;
+    background: burlywood;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem 0.2rem lightgray;
+    overflow: hidden;
+}
+
+.soruAlani {
+    padding: 4rem;
+}
+
+h2 {
+    text-align: center;
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    font-size: 2rem;
+    margin: 1rem 0rem;
+}
+
+ul li label {
+    cursor: pointer;
+}
+
+button {
+    background: rgb(204, 90, 44);
+    width: 100%;
+    display:block;
+    border: none;
+    padding: 1rem;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+    font-family: inherit;
+}
+
+button:hover {
+    background: rgb(218, 87, 35);
+}
+
+button:focus{
+    background: rgb(226, 144, 111);
+    outline: none;
+}
+

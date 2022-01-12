@@ -1,0 +1,93 @@
+{
+    "sorular": [
+        {
+            "soru": "Aşağıdakilerden hangisi JavaScript ile ilgili açılır pencere de yazdırma komutudur.",
+            "secenekA": "alert()",
+            "secenekB": "document.write()",
+            "secenekC": "console.log()",
+            "secenekD": "document.querySelector()",
+            "cevap": "secenekA"
+        },
+
+        {
+            "soru": "Aşağıdakilerden hangisi JavaScript ile harici veri kullanma yapılarından değildir?",
+            "secenekA": "JavaScript Object",
+            "secenekB": "JSON",
+            "secenekC": "MySQL",
+            "secenekD": "MongoDB",
+            "cevap": "secenekA"
+        },
+
+        {
+            "soru": "Aşağıdakilerden hangisi ile JavaScript dosyasını HTML dosyasına bağlanır?",
+            "secenekA": "<script src=''></script>",
+            "secenekB": "<link href=''>",
+            "secenekC": "<script></script>",
+            "secenekD": "Bağlanamaz",
+            "cevap": "secenekA"
+        },
+
+        {
+            "soru": "JavaScript kodu neler içerir ?",
+            "secenekA": "Yöntem (method) çağırmaları",
+            "secenekB": "HTML etiketleri",
+            "secenekC": "Çalıştırılabilir ifadeler",
+            "secenekD": "Hepsi",
+            "cevap": "secenekD"
+        },
+
+        {
+            "soru": "Kullanıcı bir HTML öğesini tıkladığında aşağıdaki event (olaylardan) hangisi gerçekleşir ?",
+            "secenekA": "onclick",
+            "secenekB": "onmouseclick",
+            "secenekC": "onmouseover",
+            "secenekD": "Hiçbiri",
+            "cevap": "secenekA"
+        },
+
+        {
+            "soru": "JavaScript'deki yorum satırları, _______ tarafından yok sayılır.",
+            "secenekA": "bilgisayar",
+            "secenekB": "tarayıcı",
+            "secenekC": "derleyici",
+            "secenekD": "İşletim sistemi",
+            "cevap": "secenekB"
+        },
+
+        {
+            "soru": "Aşağıdakilerden hangisi 'while' döngüsünün doğru ifadesidir ?",
+            "secenekA": "while i = 1 to 10",
+            "secenekB": "while (i <= 10; i++)",
+            "secenekC": "while (i <= 10)",
+            "secenekD": "Hepsi olabilir",
+            "cevap": "secenekC"
+        },
+
+        {
+            "soru": "JavaScript ifadeleri ____ tarafından sonlandırılır.",
+            "secenekA": "/",
+            "secenekB": ".(Nokta)",
+            "secenekC": ";",
+            "secenekD": "Hiçbiri",
+            "cevap": "secenekC"
+        },
+
+        {
+            "soru": "Yorum ifadesi, _____ ifade türüdür.",
+            "secenekA": "çalıştırılamayan",
+            "secenekB": "çalıştırılabilir",
+            "secenekC": "kullanışsız",
+            "secenekD": "önemli olmayan",
+            "cevap": "secenekA"
+        },
+
+        {
+            "soru": "_____ operatörü bir değişkene bir değeri atamak için kullanılır.",
+            "secenekA": "+",
+            "secenekB": "*",
+            "secenekC": "**",
+            "secenekD": "=",
+            "cevap": "secenekD"
+        }
+    ]
+}
